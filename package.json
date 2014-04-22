@@ -1,0 +1,28 @@
+{
+  "name": "test",
+  "version": "0.0.1",
+  "private": true,
+  "main": "test.js",
+  "script": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "~3.0.0",
+    "connect": ">=2.9.0",
+    "socket.io": ">=0.9.16",
+    "node-uuid": ">=1.4.1",
+    "querystring": "0.2.0",
+    "q": "*",
+    "q-io":"*"
+  },
+  "scripts": {
+    "start": "node test.js"
+  },
+  "readmeFilename": "README.md",
+  "description": "",
+  "devDependencies": {
+  },
+  "repository": "",
+  "author": "",
+  "license": "BSD"
+}
