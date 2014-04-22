@@ -35,5 +35,6 @@ Then ran youtube.js to look at the anotations on the videos and pull out goo.gl 
 
 Random links:
 ```
-randgoo.js just generates random goo.gl/ urls. Nothing high quality about the randomness just what's built into node. Did this just for the hell of it.
+node randgoo.js 
 ```
+Just generates random goo.gl/ urls. Nothing high quality about the randomness just what's built into node. Did this just for the hell of it.
